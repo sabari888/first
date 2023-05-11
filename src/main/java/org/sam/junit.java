@@ -1,7 +1,7 @@
 package org.sam;
 
-import org.sam.BaseClass;
-import org.sam.fblogPojo;
+
+
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;

@@ -1,9 +1,6 @@
 package org.sam;
 
-import org.sam.BaseClass;
-import org.sam.fblogPojo;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
+
 
 public class sample extends BaseClass{
 public static void main(String[] args) {
